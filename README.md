@@ -20,3 +20,6 @@ Database
 - periksa
 - poli
 ---
+Cara Menjalankan
+- Repository
+  git clone https://github.com/username/repository-name.git
