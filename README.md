@@ -29,3 +29,8 @@ Cara Menjalankan
       mysql -u username -p database_name < db_file.sql
 3. Jalankan server lokal dengan xampp
    - http://localhost/repository-name
+---
+Password
+1. Admin
+   - Username = adminpoli
+   - Password = poli123
