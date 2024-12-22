@@ -21,5 +21,11 @@ Database
 - poli
 ---
 Cara Menjalankan
-- Repository<br>
-  git clone https://github.com/username/repository-name.git
+1. Repository<br>
+  https://github.com/username/repository-name.git
+2. Import Database<br>
+    - Masuk ke folder db/
+    - import filesgl<br>
+      mysql -u username -p database_name < db_file.sql
+3. Jalankan server lokal dengan xampp
+   - http://localhost/repository-name
